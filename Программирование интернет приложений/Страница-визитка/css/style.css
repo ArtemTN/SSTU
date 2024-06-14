@@ -1,0 +1,43 @@
+.header {
+    height: 100vh;
+    background: url("https://img.goodfon.ru/original/1680x1050/e/dc/seryy-linii-fon.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.header-top {
+    background-color: rgb(24, 23, 23);
+
+    color: rgba(210, 221, 158, 0.39);
+    -webkit-text-stroke-width: 0.2px;
+    -webkit-text-stroke-color: black;
+}
+
+.name {
+
+    color: rgb(211, 221, 158);
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+
+}
+
+.left {
+    display: inline-block;
+}
+
+.right {
+    display: inline-block;
+
+    font-size: larger;
+
+    color: rgb(0, 0, 0);
+}
+
+.footer-about {
+    background-color: rgb(24, 23, 23);
+
+    color: rgba(210, 221, 158, 0.39);
+    -webkit-text-stroke-width: 0.2px;
+    -webkit-text-stroke-color: black;
+}
